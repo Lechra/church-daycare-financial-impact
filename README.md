@@ -4,6 +4,12 @@ Consulting-style financial analysis evaluating the impact of introducing a dayca
 
 ## Overview
 This project applies a consulting-style analytics framework to evaluate the financial sustainability of a mid-sized church considering the introduction of a daycare program. The analysis compares historical income trends with projected revenue scenarios to assess whether a daycare could provide more stable and predictable funding.
+## 📄 Full Report
+
+👉 **[View the Full Financial Analysis (HTML)](./church_daycare_analysis.html)**
+
+This interactive report presents a consulting-style financial impact analysis evaluating the introduction of a daycare program, including historical trends, projected revenue scenarios, and executive recommendations.
+
 
 ## Business Question
 Can introducing a daycare program improve long-term financial stability and support community engagement compared to reliance on tithes and offerings alone?
