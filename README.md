@@ -19,6 +19,10 @@ Can introducing a daycare program improve long-term financial stability and supp
 - Built a three-year projected revenue model (2026–2028)
 - Compared donation-only income versus a diversified model including daycare revenue
 - Visualized yearly and monthly income trends to support executive decision-making
+  
+### Executive Engagement Context
+This analysis was developed as a decision-support tool and is scheduled to be presented in person to church leadership and the executive board to facilitate live discussion, questions, and strategic decision-making.
+
 
 ## Key Insights
 - Income based solely on tithes and offerings showed volatility and limited growth
