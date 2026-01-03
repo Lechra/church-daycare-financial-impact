@@ -1,12 +1,14 @@
-# church-daycare-financial-impact
+# Project: Revenue Diversification & Financial Sustainability Analysis
+
 Consulting-style financial analysis evaluating the impact of introducing a daycare program
-# Financial Impact Analysis: Church Daycare Program
+# Executive Decision Support for a Mid-Sized Organization
 
-## Overview
-This project applies a consulting-style analytics framework to evaluate the financial sustainability of a mid-sized church considering the introduction of a daycare program. The analysis compares historical income trends with projected revenue scenarios to assess whether a daycare could provide more stable and predictable funding.
+## Executive Summary
+ Executive Summary
+The Problem: An organization relying solely on voluntary donations (tithes/offerings) faced high income volatility and stagnant growth, threatening long-term community programs.
+The Solution: I built a three-year financial projection model comparing their current "Donation-Only" model against a "Diversified Revenue" model (introducing a daycare program).
+The Result: Identified a path to predictable monthly cash flow, providing leadership with the data-backed confidence to move forward with a phased daycare launch in 2026.
 ## 📄 Full Report
-
-👉 **[View the Full Financial Analysis (HTML)](./church_daycare_analysis.html)**
 
 This interactive report presents a consulting-style financial impact analysis evaluating the introduction of a daycare program, including historical trends, projected revenue scenarios, and executive recommendations.
 
@@ -14,21 +16,22 @@ This interactive report presents a consulting-style financial impact analysis ev
 ## Business Question
 Can introducing a daycare program improve long-term financial stability and support community engagement compared to reliance on tithes and offerings alone?
 
-## Approach
-- Analyzed historical income and membership data (2022–2025)
-- Built a three-year projected revenue model (2026–2028)
-- Compared donation-only income versus a diversified model including daycare revenue
-- Visualized yearly and monthly income trends to support executive decision-making
+##  My Consulting Process
+1. Data Auditing: Cleaned and structured 4 years of historical financial and membership records using R.
+2. Trend Analysis: Visualized seasonal donation patterns to identify "risk months" where cash reserves were lowest.
+3. Predictive Modeling: Built a 3-year revenue forecast using ggplot2 and R Markdown, allowing for "What-If" scenario planning.
+4. Executive Presentation: Developed an interactive HTML report designed for board-level review, focusing on "The Why" behind the numbers.<img width="722" height="185" alt="image" src="https://github.com/user-attachments/assets/3e59affc-eb18-4878-9e41-602cfcde668c" />
+
   
 ### Executive Engagement Context
-This analysis was developed as a decision-support tool and is scheduled to be presented in person to church leadership and the executive board to facilitate live discussion, questions, and strategic decision-making.
+This analysis was developed as a decision-support tool and presented in person to church leadership and the executive board to facilitate live discussion, questions, and strategic decision-making.
 
 
-## Key Insights
-- Income based solely on tithes and offerings showed volatility and limited growth
-- Projected daycare revenue introduces consistent monthly cash flow
-- Yearly income projections demonstrate improved financial stability with diversified revenue
-- Membership growth remains modest but supports broader community engagement
+##  Deliverables
+• Interactive Executive Report (HTML) – Best for live walkthroughs.
+• PDF Board Deck – Best for offline reading and distribution.
+• Technical Repository: The R-scripts and data cleaning workflows are documented below.
+Tools Used: R (Posit Cloud), ggplot2, R Markdown, Predictive Modeling.
 
 ## Recommendation
 Pursue a phased daycare launch beginning in 2026 to validate enrollment assumptions and manage operational risk while benefiting from predictable, diversified income.
@@ -41,4 +44,4 @@ Pursue a phased daycare launch beginning in 2026 to validate enrollment assumpti
 - R / RStudio (Posit Cloud)
 - ggplot2
 - R Markdown
-- GitHub
+- Predictive Modeling
