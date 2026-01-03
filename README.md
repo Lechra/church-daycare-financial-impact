@@ -17,13 +17,14 @@ This interactive report presents a consulting-style financial impact analysis ev
 Can introducing a daycare program improve long-term financial stability and support community engagement compared to reliance on tithes and offerings alone?
 
 ##  My Consulting Process
+
 1. Data Auditing: Cleaned and structured 4 years of historical financial and membership records using R.
 2. Trend Analysis: Visualized seasonal donation patterns to identify "risk months" where cash reserves were lowest.
 3. Predictive Modeling: Built a 3-year revenue forecast using ggplot2 and R Markdown, allowing for "What-If" scenario planning.
-4. Executive Presentation: Developed an interactive HTML report designed for board-level review, focusing on "The Why" behind the numbers.<img width="722" height="185" alt="image" src="https://github.com/user-attachments/assets/3e59affc-eb18-4878-9e41-602cfcde668c" />
+4. Executive Presentation: Developed an interactive HTML report designed for board-level review, focusing on "The Why" behind the numbers.
 
   
-### Executive Engagement Context
+## Executive Engagement Context
 This analysis was developed as a decision-support tool and presented in person to church leadership and the executive board to facilitate live discussion, questions, and strategic decision-making.
 
 
